@@ -6,7 +6,7 @@
 
 .container {
     /* max-width: 1000px; */
-    margin: 0 auto;
+    margin: 16px auto;
 }
 
 .row {
@@ -27,6 +27,10 @@
 .box.green {
     background-color: #1ce170;
     border-color: #0d6cf4;
+}
+
+.box.blank {
+    height: 45.59px;
 }
 
 [class*="col-"] {
